@@ -1,9 +1,6 @@
 # Internal-only docs (kept local, not published)
 PIPELINE.md
 
-# Unrelated scratch content (not part of this project)
-Download models/
-
 # Python
 __pycache__/
 *.pyc
