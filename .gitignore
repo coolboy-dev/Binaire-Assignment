@@ -1,0 +1,21 @@
+# Internal-only docs (kept local, not published)
+PIPELINE.md
+
+# Unrelated scratch content (not part of this project)
+Download models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# SQLite journal/WAL files (regenerated automatically; the .db itself is tracked)
+*.db-wal
+*.db-shm
+*.db-journal
+
+# OS cruft
+.DS_Store
+Thumbs.db
